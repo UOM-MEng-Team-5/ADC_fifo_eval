@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=SN74V245-7PAG
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=64
+Version=2.1
+Released=2015-04-16 09:48:08
+Downloaded=2025-03-06 16:32:29
+3D=Y

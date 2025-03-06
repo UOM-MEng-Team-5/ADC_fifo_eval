@@ -1,0 +1,19 @@
+.SN74V245-7PAG :1 ;SN74V245-7PAG, FIFO Memory Dual 4K x 18 bit Uni-Directional 5ns 133MHz 3.3V 64-Pin TQFP
+QFP50P1200X1200X120-64N
+*STM IC
+*NGS
+*PLB 1="D15" 2="D14" 3="D13" 4="D12" 5="D11" 6="D10" 7="D9" 8="D8" 9="D7" 10="D6" 11="D5" 12="D4" 13="D3" 14="D2" 15="D1" 16="D0" 17="'PAE'" 18="'FL'" 19="WCLK" 20="'WEN'" 21="'WXI'" 22="VCC_1" 23="'PAF'" 24="'RXI'" 25="'FF'/'IR'" 26="'WXO'/'HF'" 27="'RXO'" 28="Q0" 29="Q1" 30="GND_1" 31="Q2" 32="Q3" 33="VCC_2" 34="Q4" 35="GND_2" 36="Q5" 37="Q6" 38="Q7" 39="Q8" 40="GND_3" 41="Q9" 42="Q10" 43="VCC_3" 44="Q11" 45="Q12" 46="GND_4" 47="Q13" 48="Q14" 49="VCC_4" &
+50="Q15" 51="GND_5" 52="Q16" 53="Q17" 54="'EF'/'OR'" 55="GND_6" 56="VCC_5" 57="'RS'" 58="'OE'" 59="'LD'" 60="'REN'" 61="RCLK" 62="GND_7" 63="D17" 64="D16"
+*MXP 64
+*DFN SN74V245-7PAG
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (SN74V245-7PAG)
+~!Mouser Part Number (595-SN74V245-7PAG)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74V245-7PAG?qs=Dqy2GfToSoQLhS6JABn06g%3D%3D)
+~!Arrow Part Number (SN74V245-7PAG)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/sn74v245-7pag/texas-instruments)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-302/22351.pdf)
+~!Height (1.2mm)
+~!3D_Model (SN74V245-7PAG)
+SN74V245-7PAG
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 48.1!U 47.1!U 46.1!U 45.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 36.1!U 35.1!U 34.1!U 33.1!U 64.1!U 63.1!U 62.1!U 61.1!U 60.1!U 59.1!U 58.1!U 57.1!U 56.1!U 55.1!U 54.1!U 53.1!U 52.1!U 51.1!U 50.1!U 49.1!U 

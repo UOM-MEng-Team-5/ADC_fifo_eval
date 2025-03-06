@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74V245-7PAG
+D SN74V245-7PAG, FIFO Memory Dual 4K x 18 bit Uni-Directional 5ns 133MHz 3.3V 64-Pin TQFP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-302/22351.pdf
+$ENDCMP
+#
+#End Doc Library

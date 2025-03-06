@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SN74V245-7PAG")(type "KiCad")(uri "${KIPRJMOD}/compent_libs/LIB_SN74V245-7PAG/SN74V245-7PAG/KiCad/SN74V245-7PAG.kicad_sym")(options "")(descr ""))
+)

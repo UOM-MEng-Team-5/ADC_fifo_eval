@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN74V245_7PAG'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "SN74V245-7PAG" (!) = "", "QFP50P1200X1200X120-64N", "Quad Flat Packages", "595-SN74V245-7PAG", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74V245-7PAG?qs=Dqy2GfToSoQLhS6JABn06g%3D%3D", "SN74V245-7PAG", "https://www.arrow.com/en/products/sn74v245-7pag/texas-instruments", "SN74V245-7PAG, FIFO Memory Dual 4K x 18 bit Uni-Directional 5ns 133MHz 3.3V 64-Pin TQFP", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-302/22351.pdf", "1.2 mm"
+END_PART
+
+END.
