@@ -1,0 +1,18 @@
+.MAX9010EXT-plus- :1 ;SC70, 5ns, Low-Power, Single-Supply, Precision TTL Comparators
+SOT65P210X110-6N
+*STM IC
+*NGS
+*PLB 1="OUT" 2="GND" 3="IN+" 4="IN-" 5="VCC_1" 6="VCC_2"
+*MXP 6
+*DFN MAX9010EXT-plus-
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX9010EXT+)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.analog.com/MAX9010/datasheet?ADICID=SYND_WW_P682800_PF-spglobal)
+~!Height (1.1mm)
+~!3D_Model (MAX9010EXT+)
+MAX9010EXT-plus-
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

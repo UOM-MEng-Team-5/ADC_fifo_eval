@@ -1,4 +1,11 @@
-24737461999017466
+24742575363279994
+74AHC1G86GV,125
+SOT95P275X110-5N
+SOT753
+Integrated Circuit
+0
+5
+5
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65848,6 +65855,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MAX9010
+SOT65P210X110-6N
+6 SC70-6
+Integrated Circuit
+0
+6
+6
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -97908,6 +97922,13 @@ test point THT pad
 0
 1
 1
+Trace_Shunt
+Untitled
+
+
+0
+0
+0
 Transformer_SMD
 Pulse_P0926NL
 SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)

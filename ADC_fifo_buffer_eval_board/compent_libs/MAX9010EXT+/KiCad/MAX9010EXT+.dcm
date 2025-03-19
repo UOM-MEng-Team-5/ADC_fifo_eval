@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX9010EXT+
+D SC70, 5ns, Low-Power, Single-Supply, Precision TTL Comparators
+K
+F https://www.analog.com/MAX9010/datasheet?ADICID=SYND_WW_P682800_PF-spglobal
+$ENDCMP
+#
+#End Doc Library

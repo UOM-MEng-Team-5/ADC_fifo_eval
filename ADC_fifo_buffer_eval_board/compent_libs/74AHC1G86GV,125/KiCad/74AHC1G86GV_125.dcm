@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AHC1G86GV,125
+D 74AHC(T)1G86 - 2-input EXCLUSIVE-OR gate@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT1G86.pdf
+$ENDCMP
+#
+#End Doc Library

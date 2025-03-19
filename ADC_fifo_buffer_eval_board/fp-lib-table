@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/compent_libs/LIB_SN74V245-7PAG/SN74V245-7PAG/KiCad.pretty")(options "")(descr ""))
   (lib (name "SN74V245")(type "KiCad")(uri "${KIPRJMOD}/SN74V245.pretty")(options "")(descr ""))
+  (lib (name "MAX9010")(type "KiCad")(uri "${KIPRJMOD}/MAX9010.pretty")(options "")(descr ""))
+  (lib (name "74AHC1G86GV,125")(type "KiCad")(uri "${KIPRJMOD}/74AHC1G86GV,125.pretty")(options "")(descr ""))
+  (lib (name "Trace_Shunt")(type "KiCad")(uri "${KIPRJMOD}/Trace_Shunt.pretty")(options "")(descr ""))
 )

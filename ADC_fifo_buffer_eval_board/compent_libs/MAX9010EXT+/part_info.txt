@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX9010EXT+
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=1.1
+Released=2024-10-01 04:46:59
+Downloaded=2025-03-19 09:15:17
+3D=Y
