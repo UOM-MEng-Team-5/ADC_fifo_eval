@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "2-826942-0"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-06-22-02:40:16)
+    (mountForm default
+        (footprintRef "HDRV40W63P254_2X20_5080X500X860P")
+        (spec "System")
+    )
+)

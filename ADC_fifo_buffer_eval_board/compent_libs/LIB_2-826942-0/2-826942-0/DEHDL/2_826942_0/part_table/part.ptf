@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2_826942_0'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "2-826942-0" (!) = "", "HDRV40W63P254_2X20_5080X500X860P", "Header, Vertical", "571-2-826942-0", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2-826942-0?qs=xF5SkmKSM77XAsaLR3kF3A%3D%3D", "2-826942-0", "https://www.arrow.com/en/products/2-826942-0/te-connectivity?utm_currency=USD&region=nac", "Body Features: Primary Product Color Green | Configuration Features: Number of Positions 40 | Board-to-Board Configuration Parallel | PCB Mount Orientation Vertical | Number of Rows 2 | Connector Contact Load Condition Fully Loaded | Contact Features: Contact Shape & Form Square | Contact Mating Area Plating Material Tin | Contact Current Rating (Max) 5 AMP | Mating Square Post Dimension .025 INCH | Contact Mating Area Plating Material Thickness 3 MICM | Contact Base Material Phosphor Bronze | PCB Contact T", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA21/2082916.pdf", "8.6 mm"
+END_PART
+
+END.

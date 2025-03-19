@@ -1,4 +1,11 @@
-24742575363279994
+24744431542609542
+2-826942-0
+HDRV40W63P254_2X20_5080X500X860P
+2-826942-0-1
+Connector
+0
+40
+40
 74AHC1G86GV,125
 SOT95P275X110-5N
 SOT753
@@ -97927,8 +97934,8 @@ Untitled
 
 
 0
-0
-0
+2
+2
 Transformer_SMD
 Pulse_P0926NL
 SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)

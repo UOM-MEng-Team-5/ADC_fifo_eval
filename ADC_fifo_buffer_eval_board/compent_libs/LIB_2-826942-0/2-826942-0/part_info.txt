@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=2-826942-0
+PartCategory=Connector
+PackageCategory=Header, Vertical
+PinCount=40
+Version=5.1
+Released=2017-04-02 19:12:08
+Downloaded=2025-03-19 12:43:57
+3D=Y

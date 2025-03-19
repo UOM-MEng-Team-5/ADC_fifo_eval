@@ -5,4 +5,5 @@
   (lib (name "MC74VHC86DR2G_ONSEMI")(type "KiCad")(uri "${KIPRJMOD}/compent_libs/MAX9010EXT+/KiCad/MC74VHC86DR2G_ONSEMI.kicad_sym")(options "")(descr ""))
   (lib (name "74AHC1G86GV_125")(type "KiCad")(uri "${KIPRJMOD}/compent_libs/74AHC1G86GV,125/KiCad/74AHC1G86GV_125.kicad_sym")(options "")(descr ""))
   (lib (name "Trace_Shunt")(type "KiCad")(uri "${KIPRJMOD}/compent_libs/74AHC1G86GV,125/KiCad/Trace_Shunt.kicad_sym")(options "")(descr ""))
+  (lib (name "2-826942-0")(type "KiCad")(uri "${KIPRJMOD}/compent_libs/LIB_2-826942-0/2-826942-0/KiCad/2-826942-0.kicad_sym")(options "")(descr ""))
 )
