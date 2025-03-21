@@ -6,4 +6,5 @@
   (lib (name "74AHC1G86GV,125")(type "KiCad")(uri "${KIPRJMOD}/74AHC1G86GV,125.pretty")(options "")(descr ""))
   (lib (name "Trace_Shunt")(type "KiCad")(uri "${KIPRJMOD}/Trace_Shunt.pretty")(options "")(descr ""))
   (lib (name "2-826942-0")(type "KiCad")(uri "${KIPRJMOD}/2-826942-0.pretty")(options "")(descr ""))
+  (lib (name "52806-3010")(type "KiCad")(uri "${KIPRJMOD}/52806-3010.pretty")(options "")(descr ""))
 )

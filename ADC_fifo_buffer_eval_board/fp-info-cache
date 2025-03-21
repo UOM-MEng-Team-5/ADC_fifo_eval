@@ -1,4 +1,4 @@
-24744431542609542
+24746060345790774
 2-826942-0
 HDRV40W63P254_2X20_5080X500X860P
 2-826942-0-1
@@ -13,6 +13,13 @@ Integrated Circuit
 0
 5
 5
+52806-3010
+528063010
+52806-3010-1
+Connector
+0
+30
+30
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)

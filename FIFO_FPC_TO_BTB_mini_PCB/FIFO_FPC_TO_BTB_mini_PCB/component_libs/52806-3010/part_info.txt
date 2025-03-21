@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=52806-3010
+PartCategory=Connector
+PackageCategory=Other
+PinCount=30
+Version=1.1
+Released=2018-11-23 15:26:50
+Downloaded=2025-03-21 17:08:51
+3D=Y

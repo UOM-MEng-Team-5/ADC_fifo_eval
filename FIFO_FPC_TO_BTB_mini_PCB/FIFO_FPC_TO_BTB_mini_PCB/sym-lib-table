@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "52806-3010")(type "KiCad")(uri "${KIPRJMOD}/compoenets_libs/52806-3010/KiCad/52806-3010.kicad_sym")(options "")(descr ""))
+  (lib (name "DF40C_2_0_-60DS-0_4V_51_")(type "KiCad")(uri "${KIPRJMOD}/component_libs/DF40C_2.0_-60DS-0.4V_51_/KiCad/DF40C_2_0_-60DS-0_4V_51_.kicad_sym")(options "")(descr ""))
+)

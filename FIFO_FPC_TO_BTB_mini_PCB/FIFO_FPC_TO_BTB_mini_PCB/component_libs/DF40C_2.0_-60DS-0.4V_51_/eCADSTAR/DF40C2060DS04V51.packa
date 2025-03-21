@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DF40C_2_0_-60DS-0_4V_51_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-07-23-08:15:27)
+    (mountForm default
+        (footprintRef "DF40C2060DS04V51")
+        (spec "System")
+    )
+)
