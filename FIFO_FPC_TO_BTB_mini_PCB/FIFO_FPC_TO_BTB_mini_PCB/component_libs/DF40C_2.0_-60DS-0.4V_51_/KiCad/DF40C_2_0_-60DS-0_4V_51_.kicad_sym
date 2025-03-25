@@ -24,7 +24,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "DF40C2060DS04V51"
+		(property "Footprint" "DF40C2060DS04V51:DF40C2060DS04V51"
 			(at 19.05 -94.92 0)
 			(effects
 				(font

@@ -1,0 +1,9 @@
+Manufacturer=Amphenol Communications Solutions
+PartNumber=SFV30R-1STE1HLF
+PartCategory=Connector
+PackageCategory=Other
+PinCount=32
+Version=2.7
+Released=2024-07-24 08:11:44
+Downloaded=2025-03-25 14:22:33
+3D=Y

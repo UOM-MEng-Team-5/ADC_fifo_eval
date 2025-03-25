@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DF40C2060DS04V51")(type "KiCad")(uri "${KIPRJMOD}/DF40C2060DS04V51.pretty")(options "")(descr ""))
+  (lib (name "SFV30R1STE1HLF")(type "KiCad")(uri "${KIPRJMOD}/SFV30R1STE1HLF.pretty")(options "")(descr ""))
+)

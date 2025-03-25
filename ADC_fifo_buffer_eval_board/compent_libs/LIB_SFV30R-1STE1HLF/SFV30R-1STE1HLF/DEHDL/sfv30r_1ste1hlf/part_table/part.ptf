@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SFV30R_1STE1HLF'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol Communications Solutions", "SFV30R-1STE1HLF" (!) = "", "SFV30R1STE1HLF", "Other", "", "", "", "", "0.50mm Flex Connector, SFV-R Series, 30 Position, Bottom Side Contact, Side Entry Surface Mount ZIF Connector, Halogen Free, Lead Free, Matte Tin Plate.", "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10112793.pdf", "2 mm"
+END_PART
+
+END.
